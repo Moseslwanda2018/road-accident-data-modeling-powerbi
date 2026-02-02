@@ -36,7 +36,7 @@ The goal of this project is to:
 -	dim_vehicle_type
 -	dim_time_of_day
 -	dim_lighting_condition
-This structure enables efficient filtering, aggregation, and scalable analysis.
+### This structure enables efficient filtering, aggregation, and scalable analysis.
 
 ## Dashboard Features
 -	KPI cards summarizing overall accident impact
