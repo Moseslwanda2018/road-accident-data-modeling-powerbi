@@ -45,6 +45,9 @@ The goal of this project is to:
 -	Vehicle-type analysis highlighting differences in fatality risk
 -	DAX-based metrics for dynamic calculations like total collisions, injuries, deaths, and death rate
 
+## Y-Axis Choice
+Collision and injury counts are displayed on a primary Y-Axis starting at zero to preserve magnitude, while death rate (%) is plotted on a secondary axis with a focused range to make meaningful risk differences visible without distorting comparisons.”
+
 ## Key Insights
 -	Counties with similar collision volumes can experience very different fatality outcomes
 -	Fatality rates remain consistently above 20% throughout the year
