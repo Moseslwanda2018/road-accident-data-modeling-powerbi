@@ -28,10 +28,9 @@ This project aims to:
 ## Data Model
 * The model follows a star schema design:
 
-Fact table
+## Fact table:
 * fact_collisions
-
-## Dimension tables
+## Dimension tables:
 * dim_date
 * dim_location
 * dim_vehicle_type
