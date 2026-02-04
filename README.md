@@ -6,7 +6,7 @@ and high-risk conditions. The dashboard demonstrates data modeling, DAX, and sto
 capabilities using Power BI.
 
 ## Objective
-The goal of this project is to:
+This project aims to:
 -	Compare accident outcomes across counties
 - Analyze differences between collision volume and fatality risk
 - Explore monthly trends in injuries and fatality rates
@@ -15,7 +15,7 @@ The goal of this project is to:
 
   ## Dataset
 - Type: Simulated data
-- Geography: Kenya 
+- Geography: Selected Kenyan counties
 - Time Period: 2025
 - Key Fields: Date, County, Vehicle Type, Collisions, Injuries, Time of Day
 
@@ -40,10 +40,10 @@ The goal of this project is to:
 
 ## Dashboard Features
 -	KPI cards summarizing overall accident impact
--	Clustered bar chart comparing collisions, injuries, and deaths by county
+-	Clustered bar chart comparing collisions, injuries, and death by county
 -	Combo chart showing monthly injuries alongside fatality rate trends
 -	Vehicle-type analysis highlighting differences in fatality risk
--	DAX-based metrics for dynamic calculations like total collisions, injuries, deaths, and death rate
+-	DAX-based metrics for dynamic calculations like total collisions, injuries, death, and death rate
 
 ## Y-Axis Choice
 Collision, injury and death counts are displayed on a primary Y-Axis starting at zero to preserve magnitude, while death rate (%) is plotted on a secondary axis with a focused range to make meaningful risk differences visible without distorting comparisons.”
