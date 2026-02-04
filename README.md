@@ -44,8 +44,8 @@ Fact table
 * KPI cards summarizing the overall accident impact
 * Clustered bar chart comparing collisions, injuries, and deaths by county
 * A combo chart showing monthly injuries alongside fatality rate trends
-* Acombo chart highlighting differences in fatality risk among vehicle types
-* Acombo chart highlighting the fatality risk differences at different times of the day
+* A combo chart highlighting differences in fatality risk among vehicle types
+* A combo chart highlighting the fatality risk differences at different times of the day
 * DAX-based metrics for dynamic calculations like total collisions, injuries, deaths, and death rate
 
 ## Y-Axis Choice
@@ -56,7 +56,7 @@ Collision, injury, and death counts are displayed on a primary Y-axis starting a
 
 ## Key Insights
 * Counties with similar collision volumes can experience very different fatality outcomes.
-* Fatality rates remain consistently above 20% throughout the year.
+* In the simulation, fatality rates remain consistently above 20% throughout the year.
 * Certain vehicle types show higher death rates despite comparable collision counts.
 
 ## Future Improvements
