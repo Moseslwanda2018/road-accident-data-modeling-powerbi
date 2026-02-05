@@ -65,10 +65,15 @@ Collision, injury, and death counts are displayed on a primary Y-axis starting a
 ## Disclaimer
 This dashboard uses simulated data and is intended solely for learning and portfolio demonstration purposes.
 
+## Acknowledgements
+This project documentation benefited from explanations and structuring assistance provided by ChatGPT (OpenAI). All final implementation and analytical decisions were made independently.
+
 ## References
 * Microsoft Power BI Documentation. [https://docs.microsoft.com/power-bi/](https://docs.microsoft.com/power-bi/)
 * Kimball, R. & Ross, M. (2013). *The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling*. Wiley.
 * *End‑to‑End Analytics with Microsoft Power BI: Crash Course on Building Powerful Analytic Solutions* (2022). PDF guide. Available at: https://data-mozart.com/wp-content/uploads/2022/01/END-TO-END-ANALYTICS-WITH-MICROSOFT-POWER-BI.pdf
 * *Power BI Tutorial for Beginners* (2021). YouTube video. Available at: https://www.youtube.com/watch?v=air7T8wCYkU
+* OpenAI. *ChatGPT (GPT-4)* – Used for documentation refinement, explanation of concepts, and README structuring.  
+  https://chat.openai.com/
 
 
