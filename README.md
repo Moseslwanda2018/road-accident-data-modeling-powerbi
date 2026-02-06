@@ -22,8 +22,17 @@ This project aims to:
 * Power BI
 * Power Query
 * DAX
-* Star Schema Modeling
+* Star Schema Msodeling
 * Data Visualization
+
+## Data Simulation
+The simulation script generates:
+* Road traffic collision records
+* Fatalities (deaths) and injuries
+* Temporal features (date, month, year)
+* Intentional missing values for realism
+**Simulation Script:**  
+[`simulate_collision_data.R`](scripts/simulate_collision_data.R)
 
 ## Data Model
 * The model follows a star schema design:
