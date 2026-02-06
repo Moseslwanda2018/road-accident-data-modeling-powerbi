@@ -33,7 +33,6 @@ The simulation script generates:
 * Intentional missing values for realism
   Simulation Script:
   https://github.com/Moseslwanda2018/Data-Engineering/blob/main/simulated%20collisions%20data.R
-[`simulated_collision_data.R`](scripts/https://github.com/Moseslwanda2018/Data-Engineering/blob/main/simulated%20collisions%20data.R)
 
 ## Data Model
 * The model follows a star schema design:
