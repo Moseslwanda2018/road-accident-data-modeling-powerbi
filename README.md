@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project analyzes road traffic collision data to uncover trends in collisions, fatalities, injuries,and high-risk conditions in Power BI using simulated data among selected counties in Kenya. Since collisions are the root cause of injuries,  the project was extended by a prediction Poisson model to estimate the average number of collisions in R followed by designing a predictive dashboard in R Shiny.
-This pipeline begins by simulating road collisions in R followed by followed by extracting, loading and transforming (ELT), data cleaning and modeling, visualization in Power BI and prediction in R and Shiny. This project was inspired by the general Power BI principles in End-to-End Analytics with Microsoft Power BI: Crash Course on Building Powerful Analytic Solutions (2022). (link: https://data-mozart.com/wp-content/uploads/2022/01/END-TO-END-ANALYTICS-WITH-MICROSOFT-POWER-BI.pdf)
+This pipeline begins by simulating road collisions in R followed by followed by extracting, loading and transforming (ELT), data cleaning and modeling, visualization in Power BI and a prediction in R and Shiny app. This project was inspired by the general Power BI principles in End-to-End Analytics with Microsoft Power BI: Crash Course on Building Powerful Analytic Solutions (2022). (link: https://data-mozart.com/wp-content/uploads/2022/01/END-TO-END-ANALYTICS-WITH-MICROSOFT-POWER-BI.pdf)
 
 ## Objective
 This project aims to:
