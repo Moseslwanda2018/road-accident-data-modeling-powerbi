@@ -1,4 +1,4 @@
-## Road Accident Data Modeling, Visualization, and Analysis Dashboard (Power BI + R Shiny)
+## Road Accident Data Modeling, Visualization, and Analysis Dashboard (Power BI)
 
 ## Project Overview
 This project analyzes road traffic collision data to uncover trends in collisions, fatalities, injuries,and high-risk conditions in Power BI using simulated data among selected counties in Kenya. Since collisions are the root cause of injuries,  the project was extended by a prediction Poisson model to estimate the average number of collisions in R followed by designing a predictive dashboard in R Shiny.
