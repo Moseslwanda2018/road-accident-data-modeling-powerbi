@@ -66,6 +66,7 @@ Collision, injury, and death counts are displayed on a primary Y-axis starting a
 ## Descriptive Power BI Dashboard Preview
 <img width="1163" height="653" alt="image" src="https://github.com/user-attachments/assets/30eab3e9-a285-4059-b923-4386e3f9cb11" />
 ## Key Insights
+
 * Time of day significantly affects fatalility risk with time night collisions being disproportionately severe.
 * Counties with similar collision volumes can experience very different fatality outcomes.
 * In the simulation, fatality rates remain consistently above 20% throughout the year.
